@@ -6,7 +6,7 @@ HTML・CSS・JavaScript・SVGを単一ファイルに収めているため、イ
 
 ## 使い方
 
-[index.html](index.html) をダウンロードし、ブラウザで開いてください。公開済みのGitHub Pages(https://naruo4.github.io/serow-mechanism/)では、そのままページ上で操作できます。
+[index.html](index.html) をダウンロードし、ブラウザで開いてください。公開済みのGitHub Pages(https://naruo4.github.io/serow-mechanism/) では、そのままページ上で操作できます。
 
 - 初期回転数は **60 rpm**。数値入力・スライダーでエンジン回転数を変更。
 - 段送りは **1 ↔ N ↔ 2 ↔ 3 ↔ 4 ↔ 5**。各図のボタンから共通の状態を操作。
